@@ -1,0 +1,36 @@
+customer_no,name,posting_group,city,country_code,salesperson_code,payment_terms,credit_limit,currency_code,phone,email,tax_registration_no
+C0001,Safaricom PLC,DOMESTIC,Nairobi,KE,AO,NET30,8000000,KES,+254-722-000100,accounts@safaricom.co.ke,P051100042A
+C0002,Kenya Airways,DOMESTIC,Nairobi,KE,AO,NET30,65000000,KES,+254-20-3274000,accounts@kenya-airways.com,P051200053B
+C0003,Equity Bank Kenya,DOMESTIC,Nairobi,KE,BM,NET30,8000000,KES,+254-763-000000,accounts@equitybank.co.ke,P051300064C
+C0004,Nation Media Group,DOMESTIC,Nairobi,KE,CM,NET30,32000000,KES,+254-20-3288000,accounts@nationmedia.com,P051400075D
+C0005,Co-operative Bank,DOMESTIC,Nairobi,KE,BM,NET14,8000000,KES,+254-20-3276100,accounts@co-opbank.co.ke,P051500086E
+C0006,Bamburi Cement,DOMESTIC,Mombasa,KE,CM,NET60,12000000,KES,+254-41-2226900,accounts@lafarge.co.ke,P051600097F
+C0007,Uchumi Supermarkets,DOMESTIC,Nairobi,KE,JK,NET30,20000000,KES,+254-20-3340000,accounts@uchumi.com,P051700108G
+C0008,KCB Group,DOMESTIC,Nairobi,KE,AO,NET30,25000000,KES,+254-20-3270000,accounts@kcbgroup.com,P051800119H
+C0009,Nakumatt Holdings,DOMESTIC,Nairobi,KE,NW,NET30,8000000,KES,+254-20-3568000,accounts@nakumatt.net,P051900120I
+C0010,Bidco Africa,DOMESTIC,Thika,KE,AO,NET60,8000000,KES,+254-67-22541,accounts@bidcoafrica.com,P052000131J
+C0011,Jomo Kenyatta University,DOMESTIC,Juja,KE,BM,NET14,20000000,KES,+254-67-52711,accounts@jkuat.ac.ke,P052100142K
+C0012,Strathmore University,DOMESTIC,Nairobi,KE,CM,NET60,32000000,KES,+254-20-6007000,accounts@strathmore.edu,P052200153L
+C0013,East African Breweries,DOMESTIC,Nairobi,KE,JK,NET14,65000000,KES,+254-20-3632000,accounts@eabl.com,P052300164M
+C0014,Twiga Foods,DOMESTIC,Nairobi,KE,AO,NET60,8000000,KES,+254-700-123456,accounts@twigafoods.com,P052400175N
+C0015,M-KOPA Solar,DOMESTIC,Nairobi,KE,BM,NET14,12000000,KES,+254-703-000000,accounts@m-kopa.com,P052500186O
+C0016,Consolidated Bank,DOMESTIC,Nairobi,KE,CM,NET60,20000000,KES,+254-20-3240000,accounts@consolidated.co.ke,P052600197P
+C0017,Telkom Kenya,DOMESTIC,Nairobi,KE,AO,COD,20000000,KES,+254-20-3690000,accounts@telkom.co.ke,P052700208Q
+C0018,Kenya Power,DOMESTIC,Nairobi,KE,NW,NET30,8000000,KES,+254-20-3201000,accounts@kplc.co.ke,P052800219R
+C0019,University of Nairobi,DOMESTIC,Nairobi,KE,BM,COD,25000000,KES,+254-20-3318262,accounts@uonbi.ac.ke,P052900220S
+C0020,Naivas Limited,DOMESTIC,Nairobi,KE,CM,NET30,65000000,KES,+254-722-209500,accounts@naivas.co.ke,P053000231T
+C0021,Stanbic Bank Kenya,FOREIGN,Kampala,UG,AO,COD,12000000,USD,+256-417-124600,accounts@stanbic.co.ug,
+C0022,Ecobank Tanzania,FOREIGN,Dar es Salaam,TZ,BM,NET60,32000000,USD,+255-22-2110005,accounts@ecobank.co.tz,
+C0023,Bank of Kigali,FOREIGN,Kigali,RW,CM,NET60,12000000,USD,+250-788-140000,accounts@bk.rw,
+C0024,Abyssinia Bank,FOREIGN,Addis Ababa,ET,AO,NET30,32000000,USD,+251-11-5571250,accounts@bankofabyssinia.com,
+C0025,Access Bank Nigeria,FOREIGN,Lagos,NG,BM,NET30,20000000,USD,+234-1-2802500,accounts@accessbank.com,
+C0026,Standard Bank SA,FOREIGN,Johannesburg,ZA,JK,NET60,32000000,USD,+27-11-6366000,accounts@standardbank.com,
+C0027,Ecobank Ghana,FOREIGN,Accra,GH,AO,NET30,32000000,USD,+233-302-680202,accounts@ecobank.com,
+C0028,Dubai Islamic Bank,FOREIGN,Dubai,AE,CM,COD,32000000,USD,+971-4-2957000,accounts@dib.ae,
+C0029,Sumitomo Corp EA,FOREIGN,Tokyo,JP,BM,COD,12000000,USD,+81-3-5166000,accounts@sumitomo.co.ke,
+C0030,Emirates Group,FOREIGN,Dubai,AE,AO,COD,65000000,USD,+971-4-2081111,accounts@emirates.com,
+C0031,TotalEnergies Kenya,FOREIGN,Paris,FR,CM,COD,8000000,USD,+33-1-47442222,accounts@total.co.ke,
+C0032,Deutsche Gesellschaft,FOREIGN,Berlin,DE,JK,NET14,8000000,USD,+49-228-44600,accounts@giz.de,
+C0033,World Food Programme,FOREIGN,Rome,IT,AO,NET30,8000000,USD,+39-06-65131,accounts@wfp.org,
+C0034,USAID Kenya,FOREIGN,Washington,US,BM,NET30,8000000,USD,+1-202-7121000,accounts@usaid.gov,
+C0035,British High Commission,FOREIGN,London,GB,CM,NET60,20000000,USD,+44-20-79305000,accounts@bhc.org.ke,

@@ -1,0 +1,24 @@
+opportunity_no,description,customer_no,salesperson_code,sales_cycle_stage,status,estimated_value,chance_of_success_pct,calculated_current_value,created_date,closed_date,sales_cycle_type
+OP000001,Office Refurb – Safaricom HQ,C0001,EK,Proposal,In Progress,750000,38,285000,2024-07-22,,REOPENED
+OP000002,Refresh – Kenya Airways,C0002,AO,Initial,In Progress,720000,78,561600,2024-07-28,,REOPENED
+OP000003,Closed – Equity Bank Fit-Out,C0003,AO,Closed Won,Won,720000,34,244800,2024-02-27,2024-09-20,NEW
+OP000004,Expansion – Nation Media,C0004,AO,Initial,In Progress,430000,77,331100,2024-03-10,,REOPENED
+OP000005,Tender – Co-op Bank,C0005,EK,Presentation,In Progress,1050000,45,472500,2025-04-18,,REOPENED
+OP000006,New HQ – Bamburi Cement,C0006,EK,Proposal,In Progress,1800000,68,1224000,2024-06-21,,REOPENED
+OP000007,New HQ – Uchumi,C0007,AO,Sign Contract,In Progress,1350000,86,1161000,2024-02-23,,EXISTING
+OP000008,Tender – KCB Group,C0008,AO,Initial,In Progress,2700000,70,1890000,2024-11-16,,NEW
+OP000009,Tender – Nakumatt,C0009,RO,Proposal,In Progress,1620000,37,599400,2024-03-17,,EXISTING
+OP000010,Refresh – Bidco Africa,C0010,AO,Closed Won,Won,1080000,66,712800,2024-06-28,2024-07-31,REOPENED
+OP000011,Tender – JKUAT,C0011,EK,Closed Lost,Lost,1620000,36,583200,2025-02-02,2025-04-06,NEW
+OP000012,Refresh – Strathmore Univ,C0012,EK,Presentation,In Progress,900000,55,495000,2024-04-07,,EXISTING
+OP000013,Office Refurb – EABL,C0013,NW,Presentation,In Progress,900000,47,423000,2025-03-09,,EXISTING
+OP000014,Office Refurb – Sumitomo,C0029,JK,Closed Won,Won,430000,38,163400,2024-09-03,2024-12-20,NEW
+OP000015,New HQ – Kenya Airways B2,C0002,AO,Initial,In Progress,2250000,55,1237500,2024-01-31,,REOPENED
+OP000016,Tender – Bamburi B2,C0006,NW,Closed Won,Won,720000,75,540000,2024-08-06,2024-08-17,EXISTING
+OP000017,Expansion – Safaricom B2,C0001,AO,Qualification,In Progress,720000,63,453600,2024-06-12,,NEW
+OP000018,New HQ – Consolidated Bank,C0016,EK,Sign Contract,In Progress,1080000,56,604800,2024-01-17,,NEW
+OP000019,Refresh – Bidco B2,C0010,AO,Closed Lost,Lost,1800000,83,1494000,2024-10-15,2025-01-17,EXISTING
+OP000020,Expansion – Nation Media B2,C0004,RO,Initial,In Progress,2250000,64,1440000,2024-07-09,,EXISTING
+OP000021,Expansion – Deutsche GIZ,C0032,RO,Qualification,In Progress,720000,37,266400,2025-03-04,,EXISTING
+OP000022,Office Refurb – Safaricom C3,C0001,AO,Proposal,In Progress,720000,85,612000,2024-03-03,,NEW
+OP000023,Refresh – Emirates Group,C0030,AO,Closed Won,Won,2700000,49,1323000,2024-02-21,2024-09-12,EXISTING
